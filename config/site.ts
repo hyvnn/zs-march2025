@@ -33,5 +33,10 @@ export const siteConfig = {
       href: "/recipies",
     },
   ],
-  navMenuItems: [{}],
+  navMenuItems: [
+    {
+      label: "Home",
+      href: "/",
+    },
+],
 };
